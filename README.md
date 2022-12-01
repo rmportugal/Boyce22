@@ -14,7 +14,6 @@ In the last few days I became enchanted with the world of programming, and I dec
   <img align=center alt=Boyce.CSS height="40" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align=center alt=Boyce.HTML height="40" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align=center alt=Boyce.JS height="40" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align=center alt=Boyce.Python height="40" width+"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align=center alt=Boyce.PS height="40" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
  </div>
  
