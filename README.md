@@ -9,13 +9,17 @@ In the last few days I became enchanted with the world of programming, and I dec
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boyce22&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
   
-<div style="display:  Inline_block"><br>
-  <img align=center alt=Boyce.CSS height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align=center alt=Boyce.HTML height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt=Boyce.java height ="40" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align=center alt=Boyce.React height ="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align=center alt=Boyce.JS height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align=center alt=Boyce.TS height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
- </div>
+<p align="left">
+	<p align="center">
+		<img align="center" alt="Boyce.HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5
+		<img align="center" alt="Boyce.CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
+		<img align="center" alt="Boyce.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+		<img align="center" alt="Boyce.React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js
+	</p>
+	<p align="center">
+		<img align="center" alt="Boyce.Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
+		<img align="center" alt="Boyce.Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
+		<img align="center" alt="Mel-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
+	</p>
+</p>
  
