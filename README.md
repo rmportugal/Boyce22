@@ -14,7 +14,8 @@ In the last few days I became enchanted with the world of programming, and I dec
 		<img align="center" alt="Boyce.HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5
 		<img align="center" alt="Boyce.CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
 		<img align="center" alt="Boyce.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript
-		<img align="center" alt="Boyce.React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js
+		<img align="center" alt="Boyce.React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+		<img align="center" alt="Boyce.React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React Native
 	</p>
 	<p align="center">
 		<img align="center" alt="Boyce.Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
