@@ -17,7 +17,7 @@ In the last few days I became enchanted with the world of programming, and I dec
 		<img align="center" alt="Boyce.React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js
 	</p>
 	<p align="center">
-		<img align="center" alt="Boyce.Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
+		<img align="center" alt="Boyce.Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
 		<img align="center" alt="Boyce.Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
 		<img align="center" alt="Mel-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
 	</p>
