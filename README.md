@@ -11,6 +11,7 @@ In the last few days, I became enchanted with the world of programming and decid
     <img align="center" min-width="450px" max-width="450px" width="430px" src="https://github-readme-stats.vercel.app/api?username=Boyce22&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false" />
     <img align="center" min-width="385px" max-width="385px" width=385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyce22&layout=compact&langs_count=7&theme=rose_pine" />
   </a>
+  ![snake gif](https://github.com/Boyce22/Boyce22/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
